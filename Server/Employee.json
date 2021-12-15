@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "empname": "B",
+      "gender": "female",
+      "age": 22,
+      "salary": 33456,
+      "city": "Hyderabad",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "empname": "C",
+      "age": 23,
+      "city": "mumbai",
+      "gender": "female",
+      "salary": 33458
+    },
+    {
+      "id": 4,
+      "empname": "D",
+      "age": 24,
+      "city": "pune",
+      "gender": "female",
+      "salary": 33457
+    },
+    {
+      "id": 5,
+      "empname": "E",
+      "age": 25,
+      "city": "delhi",
+      "gender": "female",
+      "salary": 33459
+    },
+    {
+      "empname": "B",
+      "gender": "female",
+      "age": 22,
+      "salary": 33456,
+      "city": "Hyderabad",
+      "id": 6
+    }
+  ]
+}
